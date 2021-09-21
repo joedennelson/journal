@@ -1,4 +1,4 @@
-#<h1> align="center">journal</h1>  
+#<h1 align="center">journal</h1>  
 
 a gethub rpository is something that contains all your files and your revision history 
 git is a version control system that lets you manage your code history
