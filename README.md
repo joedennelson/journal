@@ -1,7 +1,7 @@
 #<h1 align="center">journal</h1>  
 <ol>
   <li>a gethub rpository is something that contains all your files and your revision history</li> 
-git is a version control system that lets you manage your code history
+  <li>git is a version control system that lets you manage your code history</li>
 github is a global information tracker
 cli command line interface connects a computer to a program or operating program
 terminal it brings pulls requests issues and other github concepts to a terminal next to where you were already working on your code so you can fix it  
