@@ -9,3 +9,6 @@
 <li>ide enhanses your coding capabilities for github such as learn how to do branches enhace web pages and furthermore</li> 
   <li>vs code lets you source code and collabirate with others</li>
   <li>abstraction redesignings the design process makes it easier and better in the long run</li>
+  <li>operator someone who operates equipment or a machine</li>
+  <li>A logical operator is a symbol or word used to connect two or more expressions</li>
+  <li>Definition. The arithmetic operators perform addition, subtraction, multiplication, division, exponentiation, and modulus operations</li>
